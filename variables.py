@@ -40,7 +40,7 @@ w_hivebase = 14000 #("14,000g")
 ####### VARIABLE INITIALE
 INITpollen = 0
 INITnectar = 0
-INIThoney = 5000
+INIThoney = 50000
 INITBEESadult = 15000
 INITCELLSbrood = 0
 INITWEIGHTcolony = 50
