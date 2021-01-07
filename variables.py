@@ -61,4 +61,5 @@ POLLENNEEDlarva = [0.001,0.003,0.006,0.013,0.027] #REF p231 graph b
 
 ####### Parameter swarming day
 swd = 140
+RATIOnectar_to_wax = 0.66
 
