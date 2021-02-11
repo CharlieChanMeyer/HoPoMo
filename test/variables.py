@@ -47,17 +47,17 @@ INITWEIGHTcolony = 50
 
 ####### Définitions des variables "inconnues" par lecture graphique approximative 
 #Après série de test, les graphs semble cohérent avec ces paramètres
-POLLENNEEDadult = 0.0037 
-POLLENNEEDnurse = 0.045 
-NECTARNEEDactiveforager = 0.03 
-NECTARNEEDadult = 0.005
+POLLENNEEDadult = 0.005 
+POLLENNEEDnurse = 0.001 
+NECTARNEEDactiveforager = 0.1 
+NECTARNEEDadult = 0.1 
 NECTARNEEDnurse = 0.2 
-NEEDnurses_per_larva = [0.10,0.30,0.70,1.70,3.0] #REF p231 graph d
-NEEDnurses_per_egg = 0.30
-NEEDnurses_per_pupa = 0.30
+NEEDnurses_per_larva = [0.2,0.45,0.75,1.7,3] #REF p231 graph d
+NEEDnurses_per_egg = 0.5
+NEEDnurses_per_pupa = 0.5
 MORTALITYadultbase = 0.01
-NECTARNEEDlarva = [0.0025,0.0050,0.0084,0.016,0.032] #REF p231 graph b
-POLLENNEEDlarva = [0.0150,0.0250,0.0400,0.080,0.156] #REF p231 graph b
+NECTARNEEDlarva = [0.02,0.03,0.05,0.09,0.2] #REF p231 graph b
+POLLENNEEDlarva = [0.001,0.003,0.006,0.013,0.027] #REF p231 graph b
 
 ####### Parameter swarming day
 swd = 140
