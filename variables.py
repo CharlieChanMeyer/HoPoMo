@@ -45,6 +45,11 @@ INITBEESadult = 15000
 INITCELLSbrood = 0
 INITWEIGHTcolony = 50
 
+####### VARIABLE INITIALE METEO
+INITlat = 43.4167
+INITlon = -0.5833
+INITmeteoCsv = "donne_meteo.csv"
+
 ####### Définitions des variables "inconnues" par lecture graphique approximative 
 #Après série de test, les graphs semble cohérent avec ces paramètres
 POLLENNEEDadult = 0.0037 
